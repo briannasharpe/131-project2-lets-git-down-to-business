@@ -1,1 +1,4 @@
-# 131-project2-lets-git-down-to-business
+# Project 2
+### CSUF CPSC 131, Fall 2018
+
+Oct 2018
